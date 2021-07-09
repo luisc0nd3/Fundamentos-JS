@@ -7,5 +7,5 @@ NOTAS:
 3.- No usar caseSensitived en el nombrado de archivos en javascript, es mejor el siguiente formato: palabras-reservadas.js
 4.-validar nombres de variables en js. https://mothereff.in/js-variables#%E0%B2%A0%5f%E0%B2%A0
 https://mathiasbynens.be/notes/javascript-identifiers
-5.-
+5.-El mejor lugar para buscar referencias de js es https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object
 
