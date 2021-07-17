@@ -10,5 +10,5 @@ https://mathiasbynens.be/notes/javascript-identifiers
 5.-El mejor lugar para buscar referencias de js es https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 6.- LAS FUNCIONES EN JS SIEMPRE DEBEN IR AL INICIO DEL ARCHIVO.
-7.-
+7.-Esto solo servira de ejemplo
 
