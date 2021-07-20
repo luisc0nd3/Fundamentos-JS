@@ -18,5 +18,7 @@ POR REFERENCIA.
 
 9.- El spread es algo más rápido que el slice sin argumentos.
 
-10.-
+10.- No más de 3 condiciones anidadas o 50 lineas por función.
+
+11.- 
 
